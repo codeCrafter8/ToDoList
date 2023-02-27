@@ -8,7 +8,7 @@
 
 
 ## General Information
-It is a simple to do list app. This app can be used by users in everyday life.
+It is a simple to do list app. This app can be used by users in everyday life. The app uses local storage to save tasks.
 
 
 ## Features
