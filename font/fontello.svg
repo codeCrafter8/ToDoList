@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="ok" unicode="&#xe801;" d="M933 534q0-22-16-38l-404-404-76-76q-16-15-38-15t-38 15l-76 76-202 202q-15 16-15 38t15 38l76 76q16 16 38 16t38-16l164-165 366 367q16 16 38 16t38-16l76-76q16-15 16-38z" horiz-adv-x="1000" />
+
+<glyph glyph-name="plus-1" unicode="&#xe802;" d="M786 439v-107q0-22-16-38t-38-15h-232v-233q0-22-16-37t-38-16h-107q-22 0-38 16t-15 37v233h-232q-23 0-38 15t-16 38v107q0 23 16 38t38 16h232v232q0 22 15 38t38 16h107q23 0 38-16t16-38v-232h232q23 0 38-16t16-38z" horiz-adv-x="785.7" />
+
+<glyph glyph-name="trash" unicode="&#xe83d;" d="M275 825c-14 0-25-11-25-25l0-75-200 0c-28 0-50-22-50-50 0-28 22-50 50-50l650 0c28 0 50 22 50 50 0 28-22 50-50 50l-200 0 0 75c0 14-11 25-25 25l-200 0z m25-50l150 0 0-50-150 0 0 50z m-250-200c-28 0-54-23-49-50l99-600c5-27 22-50 50-50l450 0c28 0 45 23 50 50l99 600c5 27-21 50-49 50l-650 0z" horiz-adv-x="750" />
+</font>
+</defs>
+</svg>
